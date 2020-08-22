@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anything But Creed", "Anything But Creed\Anything But Creed.csproj", "{3A3813F4-841A-4304-8526-7BA2E08A9C3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A3813F4-841A-4304-8526-7BA2E08A9C3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A3813F4-841A-4304-8526-7BA2E08A9C3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A3813F4-841A-4304-8526-7BA2E08A9C3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A3813F4-841A-4304-8526-7BA2E08A9C3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD2C8945-1383-481E-9800-21F6AC4CDF97}
+	EndGlobalSection
+EndGlobal
